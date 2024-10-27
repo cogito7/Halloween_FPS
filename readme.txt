@@ -1,0 +1,1 @@
+Assets stored separately
